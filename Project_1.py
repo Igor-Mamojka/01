@@ -28,7 +28,6 @@ known as the United States is a country primarily
 located in North America, consisting of 50 states,
 a federal district, 5 major self-governing territories... ''']
 
-oddelovac = '-' * 30
 print(oddelovac)
 print('We have 3 texts to be analyzed.')
 
